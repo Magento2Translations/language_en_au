@@ -1,0 +1,32 @@
+"You have %1 new system message","%1 yeni sistem mesajınız var",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Toplamda %1 kayıt(kayıtlar) okundu olarak işaretlendi.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Tüm kayıtların %1 i kaldırıldı.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Önbellek Türlerinden bir veya daha fazlası geçersiz kılınmıştır: %1. ",module,Magento_AdminNotification
+"Reload Data","Daten neuladen",module,Magento_Backend
+"There was error during saving card data","There was an error during saving card data",module,Magento_Braintree
+"Customize and Add to Cart","Customize and Add to Bag",module,Magento_Bundle
+"Your Customization","Your Customisation",module,Magento_Bundle
+"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Bag",module,Magento_Catalog
+"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Bag",module,Magento_Catalog
+"Add to Cart","Add to Bag",module,Magento_Catalog
+"Check items to add to the cart or","Check items to add to the bag or",module,Magento_Catalog
+"Shopping Cart","Shopping Bag",module,Magento_Checkout
+"My Cart (1 item)","My Bag (1 item)",module,Magento_Checkout
+"My Cart (%1 items)","My Bag (%1 items)",module,Magento_Checkout
+"My Cart","My Bag",module,Magento_Checkout
+"You added %1 to your shopping cart.","You added %1 to your shopping bag.",module,Magento_Checkout
+"%1 was updated in your shopping cart.","%1 was updated in your shopping bag.",module,Magento_Checkout
+"Display number of items in cart","Display number of items in bag",module,Magento_Checkout
+"Shopping Cart Items","Shopping Bag Items",module,Magento_Checkout
+"Clear Shopping Cart","Clear Shopping Bag",module,Magento_Checkout
+"Update Shopping Cart","Update Shopping Bag",module,Magento_Checkout
+"Update Cart","Update Bag",module,Magento_Checkout
+"You have no items in your shopping cart.","You have no items in your shopping bag.",module,Magento_Checkout
+"Display products availability in stock on Storefront.","Display product's availability in stock on Storefront.",module,Magento_CatalogInventory
+"
+                    Please note that these settings apply to individual items in the cart, not to the entire cart.
+                ","
+                    Please note that these settings apply to individual items in the bag, not to the entire bag.
+                ",module,Magento_CatalogInventory
+"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Bag",module,Magento_CatalogInventory
+"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Bag",module,Magento_CatalogInventory
